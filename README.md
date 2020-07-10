@@ -1,4 +1,4 @@
-# Credit_Approval
+# Credit Card Approval
 
 This is a Classification Problem of Credit Card Approval 
 
